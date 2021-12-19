@@ -2,7 +2,7 @@
 
 This project was intended to be a weekend project to determine the capabilities of Streamlit for making quick applications to demo Data Sceince/Analytics & Data Engineering projects. I chose to use Log ASCII Standard (LAS) files as the initial test since it was relatively simple data (unlike my other project with baby names, which was marginally more complex) and there aren't too many web-based viewers for LAS Files. As mentioned earlier, it was inteded to be a weekend project but I believe this small demo took only an hour (as its not intended to be a production product, just a demo of Streamlit).
 
-View the live application [by clicking this link](https://share.streamlit.io/petermorrison1/las_viewer/main/main.py)
+[View the live application by clicking this link](https://share.streamlit.io/petermorrison1/las_viewer/main/main.py)
 
 ## Explaining the Project
 The goals were:
